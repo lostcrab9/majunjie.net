@@ -1,22 +1,22 @@
 # Site settings
-title: 马俊杰的网
-SEOTitle: 马俊杰的网
+title: majunjie net
+SEOTitle: majunjie net
 header-img: img/home-bg.jpg
 email: hall000@163.com
-description: "这里是马俊杰的个人博客，与你一起发现更大的世界 "
+description: "这里是马俊杰的个人博客，与你一起发现更大的世界"
 keyword: "马俊杰, 博客, 个人网站, 互联网, Web, 设计, 交互设计, 用户体验, 产品"
-url: "https://majunjie.xyz" # your host, for absolute URL
-baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
+url: https://majunjie.xyz # your host, for absolute URL
+baseurl: /Users/majunjie/Documents/GitHub/majunjie.net # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
 
 # SNS settings
 RSS: false
-weibo_username: 
-zhihu_username: 
-github_username: 
-twitter_username: 
+#weibo_username: 
+##zhihu_username: 
+#github_username: 
+#twitter_username: 
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -62,18 +62,18 @@ kramdown:
 # disqus_username: 
 
 # Netease settings
-netease_comment: false
+# netease_comment: false
 
 # Analytics settings
 # Baidu Analytics
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+# ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
+# ga_domain: huangxuan.me
 
 # Sidebar settings
-# sidebar: true # whether or not using Sidebar.
+sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "舞舞舞"
 sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
@@ -90,13 +90,6 @@ page-mathjax: false
 
 # Friends
 # friends:
-  [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
-  ]
+ #[
+   # { title: "乱序（Midare）", href: "http://mida.re/" },
+ # ]
