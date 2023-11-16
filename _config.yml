@@ -1,12 +1,12 @@
 # Site settings
-title: majunjie net
-SEOTitle: majunjie net
+title: 马俊杰的网
+SEOTitle: 马俊杰
 header-img: img/home-bg.jpg
 email: hall000@163.com
 description: "这里是马俊杰的个人博客，与你一起发现更大的世界"
 keyword: "马俊杰, 博客, 个人网站, 互联网, Web, 设计, 交互设计, 用户体验, 产品"
 url: https://majunjie.xyz # your host, for absolute URL
-baseurl: /Users/majunjie/Documents/GitHub/majunjie.net # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
