@@ -2,12 +2,19 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
+  // border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
-  position: relative;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+
+  // Semi-transparent white background with a "frosted glass" effect
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(10px);
 }
 
 .site-title {
@@ -177,6 +184,7 @@
  */
 .page-content {
   padding: $spacing-unit 0;
+  padding-top: 100px;
   flex: 1;
 }
 
